@@ -1,5 +1,6 @@
 #!/usr/bin/awk -f
-
+# Run this program
+# ./multiply_columns.awk file1.csv file2.csv > output.csv
 # This script multiplies corresponding columns from two CSV files and outputs to a new CSV file.
 
 BEGIN {
